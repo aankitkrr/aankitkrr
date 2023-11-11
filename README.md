@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aankitkrr
-- 👀 I’m interested in Analog electronics related projects 
+- 👀 I’m interested in Analog electronics related projects and any basic project related to java
 - 🌱 I’m currently working on Ring Oscillator as a PUF and learning Java
 - 💞️ I’m looking to collaborate on any project related to Analog electronics 
 - 📫 I am currently a Undergraduate at NitP in EE department.
