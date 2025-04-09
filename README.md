@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aankitkrr
-- 👀 I’m interested in Analog electronics related projects and any basic project related to java
 - 📫 I am currently a Undergraduate at NitP in EE department.
 
 <!---
